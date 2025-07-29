@@ -2,7 +2,7 @@
 O objetivo principal do sistema é fornecer um ambiente digital seguro e acessível para que pessoas possam doar e adotar animais de estimação. A plataforma permitirá o registro dos animais, o gerenciamento de informações dos doadores e a facilitação de processos de adoção.
 
 - Requisitos Funcionais:
-- 
+
 . Cadastro de Animais: Permitir que os doadores registrem animais disponíveis para adoção, incluindo dados como espécie, idade, estado de saúde e características comportamentais.
 
 . Cadastro de Doador: Coletar informações pessoais do doador (nome, endereço, telefone, e-mail) para controle e segurança.
