@@ -42,15 +42,19 @@ O objetivo principal do sistema é fornecer um ambiente digital seguro e acessí
 . Marco Antonio Bruzzasco Gonçalves
 
 <img width="405" height="618" alt="image" src="https://github.com/user-attachments/assets/f94e60a5-5d31-4351-a6a3-b4e0b0e23a4b" />
+
 Tela de carregamento do APP
 
 <img width="408" height="609" alt="image" src="https://github.com/user-attachments/assets/41652673-850a-46aa-8f7b-20dd0849ed0c" />
+
 Tela de entrada Login ou cadastro
 
 <img width="364" height="617" alt="image" src="https://github.com/user-attachments/assets/5bf9daa3-7b36-4438-8e6d-eb2190b80cbc" />
+
 Tela de cadastro do APP
 
 <img width="367" height="602" alt="image" src="https://github.com/user-attachments/assets/dbb394ed-e300-44f0-bc5c-87b3470ec181" />
+
 Tela de login do APP
 
 
