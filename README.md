@@ -39,5 +39,5 @@ O objetivo principal do sistema é fornecer um ambiente digital seguro e acessí
 
 . Davi Ribeiro Miranda
 
-. Marco Antonio Bruzzasco
+. Marco Antonio Bruzzasco Gonçalves
  
