@@ -30,4 +30,11 @@ O objetivo principal do sistema é fornecer um ambiente digital seguro e acessí
 . Alta Disponibilidade: A plataforma deverá garantir um tempo de atividade mínimo de 99% por mês.
 
 . Validação de Dados: Todas as informações cadastradas deverão passar por validação para garantir consistência e veracidade.
+
+- Membros
+
+. Pedro Nunes Coelho da Silva
+. Brayan Lourenço Viera
+. Davi Ribeiro Miranda
+. Marco Antonio Bruzzasco
  
