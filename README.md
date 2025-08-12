@@ -33,8 +33,11 @@ O objetivo principal do sistema é fornecer um ambiente digital seguro e acessí
 
 - Membros
 
-. Pedro Nunes Coelho da Silva
+. Pedro Nunes Coelho da Silva  
+
 . Brayan Lourenço Viera
+
 . Davi Ribeiro Miranda
+
 . Marco Antonio Bruzzasco
  
