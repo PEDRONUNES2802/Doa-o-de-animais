@@ -40,4 +40,7 @@ O objetivo principal do sistema é fornecer um ambiente digital seguro e acessí
 . Davi Ribeiro Miranda
 
 . Marco Antonio Bruzzasco Gonçalves
+
+<img width="405" height="618" alt="image" src="https://github.com/user-attachments/assets/f94e60a5-5d31-4351-a6a3-b4e0b0e23a4b" />
+
  
