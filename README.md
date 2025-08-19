@@ -3,7 +3,7 @@ O objetivo principal do sistema é fornecer um ambiente digital seguro e acessí
 
 - Requisitos Funcionais:
 
-. Cadastro de Animais: Permitir que os doadores registrem animais disponíveis para adoção, incluindo dados como espécie, idade, estado de saúde e características comportamentais.
+. Cadastro de Animais: Permitir que os doadores registrem animais disponíveis para adoção, incluindo dados como espécie, idade, estado de saúde e características comportamentais e foto para melhor visualização do mesmo.
 
 . Cadastro de Doador: Coletar informações pessoais do doador (nome, endereço, telefone, e-mail) para controle e segurança.
 
@@ -12,8 +12,6 @@ O objetivo principal do sistema é fornecer um ambiente digital seguro e acessí
 . Processo de Doação: Oferecer uma interface que possibilite aos adotantes visualizar animais disponíveis e entrar em contato com os doadores para agendar a adoção.
 
 . Exibição de Informações: Mostrar detalhadamente os dados do animal e do seu doador, respeitando as regras de privacidade.
-
-. Permissão da câmera e acessoa imagens para os usuários adicionarem as fotos dos animais
 
 . Não permirir que usuários deletem animais de outras pessoas sem premissão da pessoa ou por necessidade por pedido de algum administrador do APP.
 
