@@ -13,6 +13,10 @@ O objetivo principal do sistema é fornecer um ambiente digital seguro e acessí
 
 . Exibição de Informações: Mostrar detalhadamente os dados do animal e do seu doador, respeitando as regras de privacidade.
 
+. Permissão da câmera e acessoa imagens para os usuários adicionarem as fotos dos animais
+
+. Não permirir que usuários deletem animais de outras pessoas sem premissão da pessoa ou por necessidade por pedido de algum administrador do APP.
+
 - Requisitos Não Funcionais:
   
 . Restrição de Acesso: Apenas usuários registrados como doadores poderão cadastrar animais. Adotantes não precisarão de login para visualizar os animais.
@@ -31,6 +35,8 @@ O objetivo principal do sistema é fornecer um ambiente digital seguro e acessí
 
 . Validação de Dados: Todas as informações cadastradas deverão passar por validação para garantir consistência e veracidade.
 
+. Personalização de pets de acordo com a região do usuário.
+
 - Membros
 
 . Pedro Nunes Coelho da Silva  
@@ -40,6 +46,14 @@ O objetivo principal do sistema é fornecer um ambiente digital seguro e acessí
 . Davi Ribeiro Miranda
 
 . Marco Antonio Bruzzasco Gonçalves
+
+- Nececidades de funcionamento:
+
+. Permissão da câmera e acessoa imagens para os usuários verem como é o animal.
+
+. Conexão com a internet para acesso e modificação de dados.
+
+. Modelos compatíveis com o APP.
 
 
 
