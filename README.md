@@ -15,7 +15,7 @@ O objetivo principal do sistema é fornecer um ambiente digital seguro e acessí
 
 . Não permirir que usuários deletem animais de outras pessoas sem premissão da pessoa ou por necessidade por pedido de algum administrador do APP.
 
-. Tipos de Animais Permitidos: Serão aceitos apenas animais domésticos permitidos, como gatos, cachorros, coelhos e pássaros. Animais silvestres ou exóticos não serão aceitos.
+. Tipos de Animais Permitidos: Serão aceitos apenas animais domésticos permitidos pelo IBAMA a não ser com autorização tanto do adotante quanto do doador.
 
 - Requisitos Não Funcionais:
   
