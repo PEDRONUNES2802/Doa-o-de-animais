@@ -1,6 +1,6 @@
 # DOAPET
 O objetivo principal do sistema é fornecer um ambiente digital seguro e acessível para que pessoas possam doar e adotar animais de estimação. A plataforma permitirá o registro dos animais, o gerenciamento de informações dos doadores e a facilitação de processos de adoção.
-
+________________________________________________________________________________________________________________________________________________________________
 - Requisitos Funcionais:
 
 . Cadastro de Animais: Permitir que os doadores registrem animais disponíveis para adoção, incluindo dados como espécie, idade, estado de saúde e características comportamentais e foto para melhor visualização do mesmo.
@@ -18,6 +18,7 @@ O objetivo principal do sistema é fornecer um ambiente digital seguro e acessí
 . Tipos de Animais Permitidos: Serão aceitos apenas animais domésticos permitidos pelo IBAMA a não ser com autorização tanto do adotante quanto do doador.
 
 - Requisitos Não Funcionais:
+_________________________________________________________________________________________________________________________________________________________________
   
 . Restrição de Acesso: Apenas usuários registrados como doadores poderão cadastrar animais. Adotantes não precisarão de login para visualizar os animais.
 
@@ -34,7 +35,7 @@ O objetivo principal do sistema é fornecer um ambiente digital seguro e acessí
 . Validação de Dados: Todas as informações cadastradas deverão passar por validação para garantir consistência e veracidade.
 
 . Personalização de pets de acordo com a região do usuário.
-
+__________________________________________________________________________________________________________________________________________________________________
 - Membros
 
 . Pedro Nunes Coelho da Silva  
@@ -44,7 +45,7 @@ O objetivo principal do sistema é fornecer um ambiente digital seguro e acessí
 . Davi Ribeiro Miranda
 
 . Marco Antonio Bruzzasco Gonçalves
-
+__________________________________________________________________________________________________________________________________________________________________
 - Nececidades de funcionamento:
 
 . Permissão da câmera e acessoa imagens para os usuários verem como é o animal.
