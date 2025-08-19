@@ -53,6 +53,8 @@ O objetivo principal do sistema é fornecer um ambiente digital seguro e acessí
 
 . Modelos compatíveis com o APP.
 
+. Armazenamento de dados.
+
 
 
 
