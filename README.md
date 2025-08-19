@@ -15,11 +15,11 @@ O objetivo principal do sistema é fornecer um ambiente digital seguro e acessí
 
 . Não permirir que usuários deletem animais de outras pessoas sem premissão da pessoa ou por necessidade por pedido de algum administrador do APP.
 
+. Tipos de Animais Permitidos: Serão aceitos apenas animais domésticos permitidos, como gatos, cachorros, coelhos e pássaros. Animais silvestres ou exóticos não serão aceitos.
+
 - Requisitos Não Funcionais:
   
 . Restrição de Acesso: Apenas usuários registrados como doadores poderão cadastrar animais. Adotantes não precisarão de login para visualizar os animais.
-
-. Tipos de Animais Permitidos: Serão aceitos apenas animais domésticos convencionais, como gatos, cachorros, coelhos e pássaros. Animais silvestres ou exóticos não serão aceitos.
 
 . Interface Responsiva: O sistema deverá ser compatível com dispositivos móveis e oferecer navegação intuitiva.
 
