@@ -1,4 +1,4 @@
-# Doacao de animais
+# DOAPET
 O objetivo principal do sistema é fornecer um ambiente digital seguro e acessível para que pessoas possam doar e adotar animais de estimação. A plataforma permitirá o registro dos animais, o gerenciamento de informações dos doadores e a facilitação de processos de adoção.
 
 - Requisitos Funcionais:
