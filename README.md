@@ -56,6 +56,10 @@ ________________________________________________________________________________
 
 . Armazenamento de dados.
 
+Para ver nossso projeto, vá para a seguinte página:
+
+https://snack.expo.dev/@davi.marco/bom-garoto
+
 
 
 
